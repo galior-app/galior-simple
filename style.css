@@ -57,7 +57,7 @@ body {
   text-transform: uppercase;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1;
-  margin-top: -160px;
+  margin-top: -10%;
 }
 
 .content p {
@@ -79,7 +79,7 @@ body {
   width: 100%;
   gap: 20px;
   flex-wrap: wrap;
-  margin-top: -150px;
+  margin-top: -8%;
   margin-bottom: -200px;
 }
 
@@ -130,6 +130,7 @@ body {
   }
   
   .mini-logo-field {
+    padding-top: 150px;
     gap: 15px;
   }
   
@@ -153,6 +154,7 @@ body {
   
   .galior-main {
     max-width: 140%;
+    margin-bottom: -5%;
   }
   
   .content h1 {
@@ -165,17 +167,18 @@ body {
   }
   
   .mini-logo-field {
+    margin-top: -35%;
     gap: 10px;
   }
   
   .nessma-logo {
-    max-width: 80px;
-    max-height: 50px;
+    max-width: 120px;
+    max-height: 90px;
   }
   
   .galior-logo {
-    max-width: 100px;
-    max-height: 65px;
+    max-width: 140px;
+    max-height: 105px;
   }
   
   .copyright {
